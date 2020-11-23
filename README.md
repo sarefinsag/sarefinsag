@@ -1,5 +1,6 @@
 ### Hi I'm [Arefin](https://are-fin.web.app) 👋
 
+I'm a 1st-year Software Engineering Student @[Zhengzhou University](http://english.zzu.edu.cn/) at Egypt, pursuing a Bachelor's degree in Computer Science, who is passionate about Software development, Machine Learning, and open source :octocat:. I love to learn and contribute in any and every possible way.
 <!--
 **sarefinsag/sarefinsag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
