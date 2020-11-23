@@ -1,8 +1,10 @@
 ### Hi I'm [Arefin](https://are-fin.web.app) 👋
 
-I'm a 1st-year Software Engineering Student @[Zhengzhou University](http://english.zzu.edu.cn/) at Egypt, pursuing a Bachelor's degree in Computer Science, who is passionate about Software development, Machine Learning, and open source :octocat:. I love to learn and contribute in any and every possible way.
+I'm a 1st-year Software Engineering Student [Zhengzhou University](http://english.zzu.edu.cn/) in China, pursuing a Bachelor's of Engineering degree in Software Engineering, who is passionate about Software development, Machine Learning, and open source :octocat:. I love to learn and contribute in any and every possible way.
+
+[CSharp] TypeScript [JavaScript] [Java] [PHP] C++ HTML CSS
+
 <!--
-**sarefinsag/sarefinsag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
