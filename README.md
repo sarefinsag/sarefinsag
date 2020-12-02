@@ -2,6 +2,11 @@
 
 I'm a 1st-year Software Engineering Student [Zhengzhou University](http://english.zzu.edu.cn/) in China, pursuing a Bachelor's of Engineering degree in Software Engineering, who is passionate about Software development, Machine Learning, and open source :octocat:. I love to learn and contribute in any and every possible way.
 
+![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
+![Youtube](https://img.shields.io/badge/<handle>%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)
+![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+![Instagram](https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)
+
 - :school: I'm currently studing in ... [School of Information Engineering - Zhengzhou University](http://international.zzu.edu.cn/en/school/detail?cid=3&pid=3&detail=27) China
 - 🌱 I’m currently learning web application developing and fundamentals
 - 👨‍💻 All of my projects are available  [here](https://github.com/sarefinsag?tab=repositories)
