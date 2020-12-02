@@ -9,7 +9,8 @@ I'm a 1st-year Software Engineering Student [Zhengzhou University](http://englis
 - 🤔 I’m looking for help with great project ideas
 - 💬 Ask me about ... What ever.... :laughing:
 - 👯 Looking for an internship or opportunity of Web developing
-- 📫 How to reach me: ...
-- 😄 Pronouns: ... He
-- ⚡ Fun fact: ...
+
+#### Languages
+![C++](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
+
 
