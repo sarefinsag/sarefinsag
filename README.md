@@ -1,6 +1,6 @@
 ### Hi I'm [Arefin](https://are-fin.web.app) 👋💻
 
-I'm a 1st-year Software Engineering Student of [Zhengzhou University](http://english.zzu.edu.cn/) in China, pursuing a Bachelor's of Engineering degree in Software Engineering, who is passionate about Software development, Machine Learning, and open source :octocat:. I love to learn and contribute in any and every possible way.
+I'm a 1st-year Software Engineering Student of [Zhengzhou University](http://english.zzu.edu.cn/) in China, pursuing a Bachelor's of Engineering degree in Software Engineering, who is passionate about Software development, Artificial intelligence, and open source :octocat:. I love to learn and contribute in any and every possible way.
 
 [![LinkedIn](https://img.shields.io/badge/sarefinsag%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarefinsag/)
 [![Hackerrank](https://img.shields.io/badge/-sarefinsag-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/sarefinsag)
