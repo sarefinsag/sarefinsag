@@ -39,7 +39,7 @@ I'm a 1st-year Software Engineering Student of [Zhengzhou University](http://eng
 
 #### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
-![Wordpress](https://img.shields.io/badge/W-Wordpress-black)
+![Wordpress](https://img.shields.io/badge/W-Wordpress-black%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 
 <br>
 <a href="https://are-fin.web.app/"><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=sarefinsag&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarefinsag&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=graywhite" /></a>
